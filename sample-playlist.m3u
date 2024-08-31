@@ -1,10 +1,4 @@
 #EXTM3U
 
-#EXTINF:0,video 1 - ForBiggerJoyrides
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
-
-#EXTINF:0,video 2 - BigBuckBunny
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-
-#EXTINF:0,video 3 - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1, Bein Sport 1
+https://yvk4gjarn28qthwmfcs5zp.cdnrecruit.net:8443/hls/ysagetp2j4x.m3u8?s=kR1lq-pr3MGfhJtrAJst5A&e=1725155951
